@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(15, 15, 15);
+    padding: 10px;
+    color: rgb(196, 196, 174);
+}
+#profile{
+    height: 700px;
+    text-align: top left;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+    
+}
+#project1{
+    height: 300px;
+    padding: 40px;
+    text-align: center;
+}
+
+#aboutme{
+    height: 100%;
+    text-align: top left;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+}
+#project2{
+    height: 900px;
+    padding: 40px;
+    text-align: center;
+}
+#aboutme ul,ol{
+    text-align: left;
+}
+#aboutme ol{
+    font-size: medium;
+}
+.name{
+    font-size: larger;
+    font-style: italic;
+}
+.link{
+    font-size: x-large;
+}
+.body{
+    width: 85%;
+    border: 15px ;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+}
+#nav{
+    height: 100%;
+    position: absolute;
+    color: rgb(221, 210, 221);
+    font-size: x-large;
+}
+#nav a{
+    display: ruby-text;
+    padding:15px;
+    margin:100px
+}
